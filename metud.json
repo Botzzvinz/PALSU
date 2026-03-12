@@ -1,13 +1,22 @@
 {
-  "creator": "AppoloLonely---",
-  "methods": [
-    {
-      "subject": "[URGENT] Group-IB Scam Report - (nama)",
-      "text": "FAKE GROUP-IB ACCOUNT\nDATE: 10 March 2026\nTOTAL ACCOUNT DETECTED: 1\n\nHello Group-IB Team,\n\nI have identified a fake account impersonating Group-IB on Telegram.\n\nSUSPECT ACCOUNT:\n(nama)\n\nREQUESTED ACTIONS:\nApply [FAKE] label to the listed account.\nApply [SCAM] label if the account is actively soliciting funds.\n\nPriority: HIGH"
-    },
-    {
-      "subject": "[SCAM REPORT] Telegram Account - (nama)",
-      "text": "Hello Team,\n\nI want to report a suspicious Telegram account.\n\nAccount:\n(nama)\n\nThis account is impersonating an organization and misleading users.\n\nPlease review and apply appropriate labels.\n\nThank you."
-    }
-  ]
+  "method1": {
+    "subject": "[URGENT] Group-IB Scam Report - (nama)",
+    "text": "Hello Team,\n\nAccount detected:\n(nama)\n\nPlease investigate this account.\n\nPriority: HIGH"
+  },
+  "method2": {
+    "subject": "[SCAM ALERT] Telegram Account - (nama)",
+    "text": "Dear Support,\n\nI want to report account:\n(nama)\n\nThis account is impersonating an organization.\n\nPlease take action."
+  },
+  "method3": {
+    "subject": "[REPORT] Fake Account - (nama)",
+    "text": "Hello,\n\nDetected fake account:\n(nama)\n\nPlease verify and apply SCAM label."
+  },
+  "method4": {
+    "subject": "[SECURITY REPORT] Telegram - (nama)",
+    "text": "Security Team,\n\nAccount flagged:\n(nama)\n\nRequest review and action."
+  },
+  "method5": {
+    "subject": "[NOTICE] Suspicious Telegram User - (nama)",
+    "text": "Hello Team,\n\nUser detected:\n(nama)\n\nPossible scam activity.\n\nPlease investigate."
+  }
 }
