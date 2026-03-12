@@ -1,0 +1,13 @@
+{
+  "creator": "AppoloLonely---",
+  "methods": [
+    {
+      "subject": "[URGENT] Group-IB Scam Report - (nama)",
+      "text": "FAKE GROUP-IB ACCOUNT\nDATE: 10 March 2026\nTOTAL ACCOUNT DETECTED: 1\n\nHello Group-IB Team,\n\nI have identified a fake account impersonating Group-IB on Telegram.\n\nSUSPECT ACCOUNT:\n(nama)\n\nREQUESTED ACTIONS:\nApply [FAKE] label to the listed account.\nApply [SCAM] label if the account is actively soliciting funds.\n\nPriority: HIGH"
+    },
+    {
+      "subject": "[SCAM REPORT] Telegram Account - (nama)",
+      "text": "Hello Team,\n\nI want to report a suspicious Telegram account.\n\nAccount:\n(nama)\n\nThis account is impersonating an organization and misleading users.\n\nPlease review and apply appropriate labels.\n\nThank you."
+    }
+  ]
+}
